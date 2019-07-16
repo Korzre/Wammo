@@ -1,0 +1,27 @@
+
+
+#slider{
+	width: 100%;
+	max-width: 100%;
+	float: left;
+	height: 350px;
+	overflow: hidden;
+}
+
+.bx-wrapper .bx-viewport {
+/*	margin-top: -20px;*/
+}
+
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+	bottom: 30px;
+}
+
+.bx-wrapper {
+    border: none;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+}
